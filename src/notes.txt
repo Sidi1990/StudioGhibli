@@ -1,0 +1,97 @@
+System Description: GhibliCinema
+Welcome to GhibliCinema, your gateway to the magical world of Studio Ghibli's timeless
+animated movies! GhibliCinema is a user-friendly web platform designed to immerse you in the
+enchanting stories and captivating visuals of Studio Ghibli's cinematic masterpieces.
+Discover a treasure trove of Ghibli classics as you browse through our visually stunning
+collection of movie cards. With just a click, dive deeper into your favorite movies to uncover
+fascinating details like never before.
+But GhibliCinema isn't just about exploration—it's about experiences. Express your love for
+Ghibli gems by liking your favorite movies and keep track of them effortlessly. And when it's
+time to step into the theater or cozy up for a movie night at home, GhibliCinema makes it a
+breeze to reserve tickets or purchase them online, ensuring your movie experience is seamless
+and stress-free.
+And that's not all—GhibliCinema puts the power of discovery in your hands with a sleek search
+feature, helping you find the perfect movie for every mood and occasion.
+So, whether you're a die-hard Ghibli fan or just beginning your journey into this magical realm,
+GhibliCinema invites you to embark on an unforgettable cinematic adventure, one click at a
+time.
+Let the magic unfold with GhibliCinema!
+Project Overview
+In the GhibliCinema project, we embark on a captivating journey into the enchanting world of
+Studio Ghibli's animated masterpieces. This project is dedicated to creating an immersive movie
+discovery experience with a primary focus on the front-end (FE) development.
+Project Scope:
+Front-End Focus: GhibliCinema is a front-end (FE) project, where our primary goal is to create
+a visually engaging and user-friendly web application. It will harness the power of several FE
+technologies to bring Studio Ghibli movies to life on the web.
+Data Fetching:
+Data Source: To provide an extensive catalog of Studio Ghibli movies, we will exclusively fetch
+movie data from the Studio Ghibli API. This API serves as the wellspring of information,
+including movie titles, descriptions, directors, release dates, and more.
+Project Objectives:
+● User Engagement: The project aims to provide an interactive and visually appealing
+platform for users to explore, appreciate, and interact with Studio Ghibli's timeless
+classics.
+● Seamless Experience: Users will have access to detailed movie information, the ability to
+like movies, reserve tickets, and purchase tickets online, all within an intuitive FE design.
+Key Features:
+● Front-End Design: The project will prioritize a polished and responsive user interface to
+maximize user engagement.
+● Data Display: The web application will showcase movie data in a visually appealing
+manner, enhancing the overall user experience.
+● Interactivity: Users will be able to like movies, explore detailed information, and make
+ticket reservations and online purchases.
+● Search Functionality: A user-friendly search feature will enable users to find their
+favorite Studio Ghibli movies effortlessly.
+Functional Requirements:
+Main Page Features:
+Showcase a captivating panoramic view of a featured movie with the title, rating, and a
+compelling call-to-action sentence.
+Highlight Studio Ghibli's name prominently.
+Incorporate a user-friendly search bar for easy movie discovery.
+Movie Listing and Details:
+Display a visually appealing grid of Studio Ghibli movies on the main page, each represented by
+a movie card.
+Allow users to click on a movie card to access detailed information about the movie.
+Movie Information Display:
+Present comprehensive movie details on a single screen, including:
+● Movie title.
+● Movie title in Japanese.
+● Movie image.
+● Movie banner.
+● Movie description.
+● Director's name.
+● Release date.
+● Running time (in hours, minutes, and seconds).
+● Movie rating.
+● Default movie price set to 700 ALL (Albanian Lek).
+Reservation and Online Ticket Purchase
+Provide users with options to reserve or buy tickets online for each movie.
+For both reservation and online purchase, display a form to collect necessary information:
+● Number of tickets (up to 5 persons).
+● Seat selection (matching the number of tickets).
+● For reservations, indicate payment at the theater (ticket price multiplied by the number of
+people).
+For online purchases, collect additional payment information:
+● Card number.
+● CVV of the card.
+● Card expiration date.
+Validate form inputs accordingly.
+Redirect users to the main page after successful reservation or purchase, with confirmation
+notifications.
+Liking Movies and Liked Movies List:
+Allow users to express their preference by liking movies with a heart icon on movie cards.
+Visually indicate liked movies by filling the heart icon.
+Enable users to view their list of liked movies in a modal accessed through a "Likes" button in
+the navbar.
+My Tickets Page:
+Introduce a dedicated page where users can view a list of movies they have purchased tickets for.
+Display relevant movie details for each purchased ticket, such as title, date, and time of the show.
+Provide a link to the "My Tickets" page in the navbar.
+Search Functionality:
+Enable users to search for specific movies using the search bar.
+Display matching results if a valid movie title is entered.
+Provide a friendly message on an empty page if the entered title is invalid or not found.
+By placing the buttons to access the list of liked movies and the "My Tickets" page in the navbar,
+users can easily navigate to these features from any page within the application.
+Additional materials for inspiration

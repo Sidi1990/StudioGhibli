@@ -6,11 +6,11 @@ const Header = () => {
     <div className="header">
       <div className="header__left">
         <a href="/">Home</a>
-        <a href="/">About</a>
+        <a href="/">My Tickets</a>
         <a href="/">Contact</a>
       </div>
       <div className="header__right">
-        <button>Login/Signup</button>
+        <input placeholder="Search" />
       </div>
     </div>
   );
